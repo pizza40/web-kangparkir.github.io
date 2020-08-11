@@ -79,3 +79,14 @@ hr.divider {
 .card-margin{
     left: 250px;
 }
+
+button{
+  background-color: #ffffff;
+  border-radius: 12px;
+  border-color: black;
+}
+
+input{
+  border-radius: 8px;
+  border-color: black;
+}
